@@ -5,7 +5,7 @@ TBRobot_Simple
 ## 使用方法：
 
 1. 访问 你的应用域名/install 进行安装
-2. 登陆 进行相关设置
+2. 登录 进行相关设置
 3. 设置 cron.php 的cron。
 
 ## The MIT License (MIT)
